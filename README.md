@@ -13,7 +13,7 @@ Patika Veri Yapıları ve Algoritmalar - Binary Search Tree Projesi
 [7, 5, 1, 8, 3, 6, 0, 9, 4, 2] dizisinde root 5'tir.
 
 
-->               5            -> root 5'tir. Root'un sağında 7, solunda 3 bulunur.
+                 5            -> root 5'tir. Root'un sağında 7, solunda 3 bulunur.
              /      \
             3        7
           /  \      /  \
